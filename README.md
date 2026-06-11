@@ -1,56 +1,94 @@
 # 👋 Hi, I'm Sreemanth Palakurthi
 
-🎓 CSE (AI & ML) Undergraduate  
-🚀 Aspiring Software / AI Engineer  
-💡 Focused on building scalable, real-world systems
+🎓 CSE (AI & ML) Undergraduate
+🚀 Building AI systems, backend platforms, and data-driven applications
+💡 Focused on scalable, real-world software engineering
 
 ---
 
 ## 🏷️ Tech Snapshot
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
 
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science student specializing in **AI & Machine Learning**
-- 🔍 Interested in **AI systems, backend engineering, and applied ML**
-- ⚙️ Experience building **end-to-end projects**, not just isolated models
-- 📈 Strong focus on **performance, scalability, and clean architecture**
-- 🇮🇳 Based in India
+
+* 🎓 CSE (AI & ML) undergraduate focused on AI systems, backend engineering, and scalable applications
+* 🤖 Building projects involving Agentic AI, RAG pipelines, analytics systems, and intelligent workflows
+* ⚙️ Experienced in developing end-to-end applications using FastAPI, Next.js, PostgreSQL, and LLM APIs
+* 📈 Interested in AI infrastructure, data engineering, backend systems, and applied machine learning
+* 🚀 Strong believer in shipping practical, real-world software solutions
 
 ---
 
 ## 🚧 Featured Projects
 
-### 🔹 CrowdGuard — Intelligent Crowd Monitoring System
-**Tech:** Python · OpenCV · YOLO · Flask  
-- Real-time crowd detection using YOLO models  
-- Flask-based inference APIs (~15 FPS)  
-- Optimized preprocessing pipelines to reduce dropped frames  
-- Designed with **privacy-aware edge deployment**
+### 🔹 PrepForge — AI Interview Preparation Platform
+
+**Tech:** Google ADK · Gemini · ChromaDB · FastAPI · Next.js
+
+* Built a multi-agent AI platform for company-specific interview preparation and feedback analysis
+* Developed agent workflows for technical evaluation, HR analysis, and roadmap generation
+* Implemented RAG pipelines using ChromaDB and Gemini embeddings for intelligent retrieval workflows
+* Designed scalable backend APIs with session-based memory and personalized recommendations
+
+---
 
 ### 🔹 FinSetu — AI Personal Finance & Investment Advisor
-**Tech:** AI · Web · LLMs  
-- Conversational AI for financial insights  
-- Predictive analysis for smarter decision-making  
-- Built with focus on usability and real-world finance use cases  
+
+**Tech:** Next.js · Express.js · PostgreSQL · Gemini API
+
+* AI-powered financial analytics platform for expense tracking, budgeting, and portfolio insights
+* Built RESTful backend APIs and structured financial data workflows using PostgreSQL
+* Integrated Gemini API for personalized financial recommendations and investment insight generation
+* Designed responsive full-stack architecture focused on scalability and usability
 
 ---
+
+### 🔹 CrowdGuard — Intelligent Crowd Monitoring System
+
+**Tech:** Python · OpenCV · YOLOv8 · FastAPI
+
+* Built a real-time crowd monitoring system with detection, tracking, and anomaly analysis
+* Developed ML pipelines with heatmaps, risk scoring, and anomaly detection workflows
+* Implemented FastAPI-based inference services for near real-time crowd analysis
+* Designed with privacy-aware deployment considerations for scalable monitoring
+
+---
+
+### 🔹 Healthcare Patient Analytics
+
+**Tech:** PostgreSQL · SQL
+
+* Built SQL-driven analytical workflows on healthcare datasets involving patients, treatments, billing, and doctor performance metrics
+* Applied joins, CTEs, aggregations, and window functions to analyze treatment efficiency and healthcare cost distributions
+* Performed structured data exploration and reporting workflows to derive actionable insights from relational datasets
+
+---
+
 
 ## 📫 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/sreemanth-palakurthi-b75849292/ 
-- 📧 Email: sreemanth1234@gmail.com  
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sreemanth-palakurthi-b75849292/
+* 📧 Email: [sreemanth1234@gmail.com](mailto:sreemanth1234@gmail.com)
 
 ---
 
-⭐ *Consistent learning. Real projects. Strong fundamentals.*
+⭐ Building practical AI systems, scalable backend applications, and data-driven solutions.
